@@ -1,5 +1,6 @@
 # 💫 About Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaiserLycan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kaiserlc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-rey-panti-b48a65364/) 
+
 Currently working on my Bachelor's Degree in Computer Science at Mapua Makati.
 
 
